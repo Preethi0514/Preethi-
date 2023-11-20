@@ -3,3 +3,5 @@ issues
 project
 editing
 usn
+college
+branch
